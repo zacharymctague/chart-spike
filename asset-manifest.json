@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/chart-spike/static/css/main.407e153d.chunk.css",
+    "main.js": "/chart-spike/static/js/main.0af25478.chunk.js",
+    "main.js.map": "/chart-spike/static/js/main.0af25478.chunk.js.map",
+    "runtime-main.js": "/chart-spike/static/js/runtime-main.94935ab5.js",
+    "runtime-main.js.map": "/chart-spike/static/js/runtime-main.94935ab5.js.map",
+    "static/css/2.a7ba36b5.chunk.css": "/chart-spike/static/css/2.a7ba36b5.chunk.css",
+    "static/js/2.9dabc337.chunk.js": "/chart-spike/static/js/2.9dabc337.chunk.js",
+    "static/js/2.9dabc337.chunk.js.map": "/chart-spike/static/js/2.9dabc337.chunk.js.map",
+    "index.html": "/chart-spike/index.html",
+    "precache-manifest.7ddc6827bc066760623eeb97ff5474a0.js": "/chart-spike/precache-manifest.7ddc6827bc066760623eeb97ff5474a0.js",
+    "service-worker.js": "/chart-spike/service-worker.js",
+    "static/css/2.a7ba36b5.chunk.css.map": "/chart-spike/static/css/2.a7ba36b5.chunk.css.map",
+    "static/css/main.407e153d.chunk.css.map": "/chart-spike/static/css/main.407e153d.chunk.css.map",
+    "static/js/2.9dabc337.chunk.js.LICENSE.txt": "/chart-spike/static/js/2.9dabc337.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94935ab5.js",
+    "static/css/2.a7ba36b5.chunk.css",
+    "static/js/2.9dabc337.chunk.js",
+    "static/css/main.407e153d.chunk.css",
+    "static/js/main.0af25478.chunk.js"
+  ]
+}
